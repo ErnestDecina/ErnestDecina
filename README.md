@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErnestDecina
-- 👀 I’m interested in How things work
-- 🌱 I’m currently learning Excel lmao
+- 👀 I’m interested xyz
+- 🌱 I’m currently learning C with File saving
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: secret ;)
 
