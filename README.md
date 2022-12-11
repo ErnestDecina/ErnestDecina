@@ -1,7 +1,7 @@
 Program Description: About Me!
 
 Language: English
-*  🎓 First Year Computer Science student @ Technological University Dublin || TUD
+*  🎓 Second Year Computer Science student @ Technological University Dublin || TUD
 *  🤓 Currently Learning C++ && Kotlin
     * C++: Finding it easy to use knowledge from C and port it over
     * Kotlin: Finding difficult to get used to different syntax    
