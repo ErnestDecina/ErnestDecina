@@ -2,14 +2,6 @@ Program Description: About Me!
 
 Language: English
 *  🎓 Second Year Computer Science student @ Technological University Dublin || TUD
-*  🤓 Currently Learning C++ && Kotlin
-    * C++: Finding it easy to use knowledge from C and port it over
-    * Kotlin: Finding difficult to get used to different syntax    
-*  🥽 Would love to work in the XR space in the future.
-*  🌐 Currently working on personal website for:
-    * 📞 Contact Details
-    * 🔨 Projects
-    * 📷 Personal Photography
 *  🏐 Enjoy playing volleyball in my spare time! 
 *  📖 Studying Korean as a Language as part of my course
 
