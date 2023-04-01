@@ -1,9 +1,27 @@
-Program Description: About Me!
 
-Language: English
-*  🎓 Second Year Computer Science student @ Technological University Dublin || TUD
-*  🏐 Enjoy playing volleyball in my spare time! 
-*  📖 Studying Korean as a Language as part of my course
+
+
+
+``` python
+#
+# Program Description: About Me!
+# Author: Ernest John Decina
+# Date: 1st April 2023
+#
+
+def college() -> void:
+  print("🎓 Second Year Computer Science student @ Technological University Dublin || TUD")
+ 
+ def projects() -> void:
+   print("🌐 Creating a Flask application with Internationalization and Localization")
+   print("🤖 Finished a VR Game for the Game's Fleadh Game Jam")
+ 
+def hobbies() -> void:
+  print("🏐 Enjoy playing volleyball in my spare time!")
+  print("📖 Studying Korean as a Language as part of my course")
+
+
+```
 
 
 <!---
