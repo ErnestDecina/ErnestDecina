@@ -13,8 +13,8 @@ def college() -> void:
   print("🎓 Second Year Computer Science student @ Technological University Dublin || TUD")
  
 def projects() -> void:
-   print("🌐 Creating a Flask application with Internationalization and Localization")
-   print("🤖 Finished a VR Game for the Game's Fleadh Game Jam")
+  print("🌐 Creating a Flask application with Internationalization and Localization")
+  print("🤖 Finished a VR Game for the Game's Fleadh Game Jam")
  
 def hobbies() -> void:
   print("🏐 Enjoy playing volleyball in my spare time!")
