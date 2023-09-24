@@ -10,11 +10,11 @@
 #
 
 def college() -> void:
-  print("🎓 Second Year Computer Science student @ Technological University Dublin || TUD")
+  print("🎓 Third Year Computer Science student @ Technological University Dublin || TUD")
  
 def projects() -> void:
-  print("🌐 Creating a Flask application with Internationalization and Localization")
-  print("🤖 Finished a VR Game for the Game's Fleadh Game Jam")
+  print("🌐 Creating a All In One Game Server hosting using docker!")
+  print("🤖 Finishing a wake-on-lan microcontroller used to send WOL packets after server shutdown")
  
 def hobbies() -> void:
   print("🏐 Enjoy playing volleyball in my spare time!")
