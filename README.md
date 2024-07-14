@@ -6,25 +6,20 @@
 #
 # Program Description: About Me!
 # Author: Ernest John Decina
-# Date: 1st April 2023
+# Date: 24th July 2024
 #
 
-def college() -> void:
-  print("🎓 Third Year Computer Science student @ Technological University Dublin || TUD")
+def education() -> void:
+  print("🎓 Fourth Year Computer Science student @ Technological University Dublin || TUD")
+  print("🇰🇷 Completed my Korean Computer Science & Engineering Exchange @ Kyungpook National University || KNU")
  
 def projects() -> void:
-  print("🌐 Creating a All In One Game Server hosting using docker!")
-  print("🤖 Finishing a wake-on-lan microcontroller used to send WOL packets after server shutdown")
+  print("🌐 Creating a Minecraft Admin Panel for a client using Typescript, Reactjs and ExpressJs")
+  print("🤖 Finished a diary android application for a client using Java and Android Studio")
  
 def hobbies() -> void:
-  print("🏐 Enjoy playing volleyball in my spare time!")
+  print("🏐 Enjoy playing volleyball")
   print("📖 Studying Korean as a Language as part of my course")
-
-
+  print("💻 I love thinkering with tech such as hosting servers, building pc's, mobile development and vr/mr applications")
+  print("⚙️ Currently daily driving Debian 12 on all workstations")
 ```
-
-
-<!---
-ErnestDecina/ErnestDecina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
